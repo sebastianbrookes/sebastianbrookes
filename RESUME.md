@@ -1,7 +1,7 @@
 # Sebastian Brookes
 [brookes.se@northeastern.edu](mailto:brookes.se@northeastern.edu) | (917) 297-0972 | Boston, MA
 
-[LinkedIn](linkedin.com/in/sebastian-brookes) | [GitHub](github.com/sebastianbrookes)
+[LinkedIn](https://linkedin.com/in/sebastian-brookes) | [GitHub](https://github.com/sebastianbrookes)
 
 ## Education
 
@@ -22,23 +22,23 @@
 ## Projects
 
 **Interactive Progression Tracker** | *Dec 2025–Jan 2026 | React Web App*
-*   Designed and deployed a custom [web application](#) to support the workflow of a gaming content creator, streamlining stat tracking and narrative generation for their community series
+*   Designed and deployed a custom [web application](https://progression-calculator-khaki.vercel.app/) to support the workflow of a gaming content creator, streamlining stat tracking and narrative generation for their community series
 *   Built a custom "Perk Editor" allowing users to create, edit, and delete game modifiers with specific logic (buffs/nerfs)
 *   Implemented local storage solutions so users retain their custom settings and data between sessions
 *   Tool garnered 14,000+ impressions on X upon launch, and the page has received 6,000+ views within its first week of deployment
 
 **Director & Producer** | *Aug 2023 | Prague Film School*
-*   Directed a five-minute short [documentary](#) on Czech Olympic hurdler
+*   Directed a five-minute short [documentary](https://drive.google.com/file/d/1OJdrpZF4p6OAYfT1jIuixTDoo4V9u60f/view) on Czech Olympic hurdler
 *   Recruited, hired, and managed a three-person crew (cinematographer, assistant director, translator)
 *   Edited 6+ hours of raw footage down to a 5-minute final cut
 *   Film placed 3rd out of 26 entries in audience vote
-*   Received glowing [letter of recommendation](#) from the school’s director
+*   Received glowing [letter of recommendation](https://drive.google.com/file/d/1b_WDHlKbharsyfSbPEfjUnJQ3bnZ2_Bp/view?usp=sharing) from the school’s director
 
 ## Experience
 
 **Web Developer** | *Freelance*
 *Brooklyn, NY | Dec 2025*
-*   Designed and implemented a [website](kristenbrookeslcat.org) using React for a licensed private psychotherapy practice
+*   Designed and implemented a [website]([https://kristenbrookeslcat.org) using React for a licensed private psychotherapy practice
 *   Integrated a “Contact” form using Formspree
 *   Set-up hosting on GitHub Pages and connected DNS to custom domain
 
