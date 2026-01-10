@@ -38,7 +38,7 @@
 
 **Web Developer** | *Freelance*
 *Brooklyn, NY | Dec 2025*
-*   Designed and implemented a [website]([https://kristenbrookeslcat.org) using React for a licensed private psychotherapy practice
+*   Designed and implemented a [website](https://kristenbrookeslcat.org) using React for a licensed private psychotherapy practice
 *   Integrated a “Contact” form using Formspree
 *   Set-up hosting on GitHub Pages and connected DNS to custom domain
 
