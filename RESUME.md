@@ -27,7 +27,7 @@
 *   Implemented local storage solutions so users retain their custom settings and data between sessions
 *   Tool garnered 14,000+ impressions on X upon launch, and the page has received 6,000+ views within its first week of deployment
 
-**Short Documentary Director and Producer** | *Aug 2023 | Prague Film School*
+**Director & Producer** | *Aug 2023 | Prague Film School*
 *   Directed a five-minute short [documentary](#) on Czech Olympic hurdler
 *   Recruited, hired, and managed a three-person crew (cinematographer, assistant director, translator)
 *   Edited 6+ hours of raw footage down to a 5-minute final cut
