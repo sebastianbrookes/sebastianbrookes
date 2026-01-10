@@ -37,12 +37,21 @@
 ## Experience
 
 **Web Developer** | *Freelance*
+
 *Brooklyn, NY | Dec 2025*
 *   Designed and implemented a [website](https://kristenbrookeslcat.org) using React for a licensed private psychotherapy practice
 *   Integrated a “Contact” form using Formspree
 *   Set-up hosting on GitHub Pages and connected DNS to custom domain
 
+**Financial Consultant** | *Sertie*
+
+*London, United Kingdom | Feb-Apr 2025*
+*   Collaborated in a team of 3 to conduct market research and competitive analysis of expansion into foreign markets by evaluating the viability of different demographics and cultures
+*   Developed a 5 year financial model supporting Sertie’s expansion into a specific foreign market
+*   Combined analytical findings into a slide pitch presented directly to the company’s CEO, highlighting insights into market size, revenue potential, go-to-market approach, and pricing strategies
+
 **Camp Counselor** | *Poly Prep Country Day School*
+
 *Brooklyn, NY | Jun–Aug 2024 and 2025*
 *   Supervised and engaged 25 children (ages 6–7) alongside three fellow counselors, designing and leading daily games and activities focused on teamwork and social development
 *   Entrusted with additional responsibility of transporting children across groups from buses to their designated areas, reflecting reliability and organizational awareness
