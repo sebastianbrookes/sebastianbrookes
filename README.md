@@ -1,6 +1,8 @@
 ### Hello, I’m Sebastian Brookes.
 I’m a Business and Data Science major at Northeastern University. 
+
 I believe that data is the best tool we humans have for cutting through noise, shaping better outcomes discovering what's true.
+
 I want to deeply understand this tool, and use it to solve problems and create rather than extract value.
 
 
