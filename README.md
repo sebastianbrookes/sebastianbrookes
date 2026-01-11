@@ -2,7 +2,7 @@
 
 I’m a Business and Data Science major at Northeastern University. 
 
-I believe that data is the best tool that we have to cut through noise, shape better outcomes, and discover what's true. My goal is to deeply understand the tool in all of its facets, and use it to solve problems and create rather than extract value.
+<!-- I believe that data is the best tool that we have to cut through noise, shape better outcomes, and discover what's true. My goal is to deeply understand the tool in all of its facets, and use it to solve problems and create rather than extract value. -->
 
 
 <!--
