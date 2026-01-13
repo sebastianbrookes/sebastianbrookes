@@ -1,6 +1,6 @@
-**Hello, I'm Sebastian.** 
+**Hello, I'm Sebastian.** I study business and data science at Northeastern University. Other interests include film, art, design, basketball, and running.
 
-I'm a Business and Data Science major at Northeastern University, though my interests run wider—film, psychology, health, and art. I'm here because I like understanding how things work, making things that matter, and discovering truth in the process.
+
 
 <!-- I'm deeply excited by the idea that data, when presented with clarity and aesthetic taste, can cut through the endless noise and provide 
 
