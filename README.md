@@ -1,4 +1,4 @@
-**Hello, I'm Sebastian.** I study business and data science at Northeastern University. Other interests include film, art, design, basketball, and running.
+Hello, I'm Sebastian. I study business and data science at Northeastern University. Other interests include film, art, design, basketball, and running.
 
 
 
