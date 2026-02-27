@@ -1,10 +1,10 @@
 Building intuition.
 
-### Current projects
+**Current projects**
 - [**Markets vs Polls**](https://github.com/sebastianbrookes/markets-vs-polls) - comparing prediction markets (Polymarket) against traditional polls (FiveThirtyEight) for the 2024 U.S. elections.
 - [**Clipdown**](https://github.com/sebastianbrookes/clipdown) - a A macOS utility that converts clipboard images to markdown using Google Gemini 2.5 Flash.
 
-### Archived projects
+**Archived projects**
 - [**NBA 2K Player Progression Calculator**](https://github.com/sebastianbrookes/progression-calculator) - recieved 6.9k visitors within the week of release.
 
 <!--
