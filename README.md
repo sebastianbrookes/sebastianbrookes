@@ -1,7 +1,7 @@
 Building intuition.
 
 **Current projects**
-- [**Look West**](https://golookwest.com) - A sunset alert service that emails you a motivating message to go watch the sunset
+- [**Look West**](https://golookwest.com) - A sunset alert service that emails you when the sunset will be worth seeing - comes with a great quote
 - [**Markets vs Polls**](https://github.com/sebastianbrookes/markets-vs-polls) - comparing prediction markets (Polymarket) against traditional polls (FiveThirtyEight) for the 2024 U.S. elections.
 - [**Clipdown**](https://github.com/sebastianbrookes/clipdown) - a A macOS utility that converts clipboard images to markdown using Google Gemini 2.5 Flash.
 
