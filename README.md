@@ -1,4 +1,4 @@
-Building intuition.
+
 
 **Current projects**
 - [**Look West**](https://golookwest.com) - A sunset alert service that emails you when the sunset will be worth seeing - comes with a great quote
